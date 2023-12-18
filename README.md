@@ -1,3 +1,5 @@
 Big HW Gladkikh Roman
 
-Не получилось добавить датасет по кредитным картам в папку data, так как у него слишком большой размер, а GitHub ставит ограничения на размер файла
+Code in Big_HW_final.
+
+Unfortunately, I did not write a report, I will upload it on Monday
